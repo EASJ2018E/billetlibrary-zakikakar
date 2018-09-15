@@ -1,0 +1,17 @@
+C:\Users\Zaki\source\billetlibrary-zakikakar\BilletLibrary\BilletLibraryTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Zaki\source\billetlibrary-zakikakar\BilletLibrary\BilletLibraryTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Zaki\source\billetlibrary-zakikakar\BilletLibrary\BilletLibraryTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Zaki\source\billetlibrary-zakikakar\BilletLibrary\BilletLibraryTest\bin\Debug\netcoreapp2.1\BilletLibraryTest.deps.json
+C:\Users\Zaki\source\billetlibrary-zakikakar\BilletLibrary\BilletLibraryTest\bin\Debug\netcoreapp2.1\BilletLibraryTest.runtimeconfig.json
+C:\Users\Zaki\source\billetlibrary-zakikakar\BilletLibrary\BilletLibraryTest\bin\Debug\netcoreapp2.1\BilletLibraryTest.runtimeconfig.dev.json
+C:\Users\Zaki\source\billetlibrary-zakikakar\BilletLibrary\BilletLibraryTest\bin\Debug\netcoreapp2.1\BilletLibraryTest.dll
+C:\Users\Zaki\source\billetlibrary-zakikakar\BilletLibrary\BilletLibraryTest\bin\Debug\netcoreapp2.1\BilletLibraryTest.pdb
+C:\Users\Zaki\source\billetlibrary-zakikakar\BilletLibrary\BilletLibraryTest\bin\Debug\netcoreapp2.1\BilletLibrary.dll
+C:\Users\Zaki\source\billetlibrary-zakikakar\BilletLibrary\BilletLibraryTest\bin\Debug\netcoreapp2.1\BilletLibrary.pdb
+C:\Users\Zaki\source\billetlibrary-zakikakar\BilletLibrary\BilletLibraryTest\obj\Debug\netcoreapp2.1\BilletLibraryTest.csprojAssemblyReference.cache
+C:\Users\Zaki\source\billetlibrary-zakikakar\BilletLibrary\BilletLibraryTest\obj\Debug\netcoreapp2.1\BilletLibraryTest.csproj.CoreCompileInputs.cache
+C:\Users\Zaki\source\billetlibrary-zakikakar\BilletLibrary\BilletLibraryTest\obj\Debug\netcoreapp2.1\BilletLibraryTest.AssemblyInfoInputs.cache
+C:\Users\Zaki\source\billetlibrary-zakikakar\BilletLibrary\BilletLibraryTest\obj\Debug\netcoreapp2.1\BilletLibraryTest.AssemblyInfo.cs
+C:\Users\Zaki\source\billetlibrary-zakikakar\BilletLibrary\BilletLibraryTest\obj\Debug\netcoreapp2.1\BilletLibraryTest.csproj.CopyComplete
+C:\Users\Zaki\source\billetlibrary-zakikakar\BilletLibrary\BilletLibraryTest\obj\Debug\netcoreapp2.1\BilletLibraryTest.dll
+C:\Users\Zaki\source\billetlibrary-zakikakar\BilletLibrary\BilletLibraryTest\obj\Debug\netcoreapp2.1\BilletLibraryTest.pdb
