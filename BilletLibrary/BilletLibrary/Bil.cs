@@ -6,7 +6,7 @@ namespace BilletLibrary
 {
     public class Bil
     {
-        public string NummerPlade;
+        public string Nummerplade;
         public DateTime Dato;
 
         public decimal Pris() //Ved kald af metoden Pris() returneres decimal 240
