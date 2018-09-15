@@ -1,14 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Reflection.Metadata.Ecma335;
 using System.Text;
 
 namespace BilletLibrary
 {
-    public class Bil
+    public class Bil : Base
     {
-        public string Nummerplade;
-        public DateTime Dato;
-
         public decimal Pris() //Ved kald af metoden Pris() returneres decimal 240
         {
             return 240;

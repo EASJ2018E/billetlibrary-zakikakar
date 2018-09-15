@@ -4,11 +4,8 @@ using System.Text;
 
 namespace BilletLibrary
 {
-    public class MC
+    public class MC : KøretøjBase //Arver fra base klassen 'KøretøjBase'
     {
-        public string Nummerplade;
-        public DateTime Dato;
-
         public decimal Pris()//Ved kald af metoden Pris() returneres decimal 125
         {
             return 125;
