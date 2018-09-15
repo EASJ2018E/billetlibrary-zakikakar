@@ -5,8 +5,9 @@ using System.Text;
 
 namespace BilletLibrary
 {
-    public class Bil : Base
+    public class Bil : KøretøjBase
     {
+
         public decimal Pris() //Ved kald af metoden Pris() returneres decimal 240
         {
             return 240;
