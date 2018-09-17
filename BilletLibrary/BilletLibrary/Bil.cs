@@ -10,6 +10,11 @@ namespace BilletLibrary
 
         public decimal Pris() //Ved kald af metoden Pris() returneres decimal 240
         {
+            if (AnvendtBrobizz) //Tjekker om brobizz er anvendt, hvis true så giver den rabat på 5%
+            {
+                return 240 * (decimal) Rabat;
+            }
+
             return 240;
         }
 

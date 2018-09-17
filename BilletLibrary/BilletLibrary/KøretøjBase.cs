@@ -24,15 +24,30 @@ namespace BilletLibrary
 
         public DateTime Dato;
         private string _nummerplade;
+        public bool AnvendtBrobizz;
+        public double Rabat = 0.95;
 
         public decimal Pris()
         {
-             throw new NotImplementedException();
+            throw new NotImplementedException();
         }
 
         public string Køretøj()
         {
             throw new NotImplementedException();
         }
+        //public decimal Brobizz() // Smarteste måde? Kunne ikke få det til at fungere.
+        //{ 
+            //throw new NotImplementedException();
+        
+            //if (AnvendtBrobizz == true)
+            //{
+            //    return Pris() * (decimal)Rabat;
+
+            //}
+
+            //return Pris();
+        //}
+        }
     }
-}
+
