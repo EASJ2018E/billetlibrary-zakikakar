@@ -9,31 +9,20 @@ namespace BilletLibraryTest
     [TestClass]
     public class NummerpladeTest 
     {
-        
+
+        /// <summary>
+        /// Fortæller at man forventer en exception af typen 'ArgumentException'
+        /// Her laver man ikke en assert, da 'expectedexception' fungerer som assert.
+        /// </summary>
         [TestMethod]
+        [ExpectedException(typeof(ArgumentException))] 
         public void TestNummerpladeLength()
         {
             //ARRANGE
             Bil bil = new Bil();
-            bil.Nummerplade = "AB123456";
 
             //ACT
-            string nummerPlade = bil.Nummerplade;
-
-            //ASSERT
-            Assert.AreNotEqual("AB123456", nummerPlade);
-
-
-            //try
-            //{
-            //    TestNummerpladeLength();
-            //    Assert.Fail("no exception thrown");
-            //}
-            //catch (Exception ex)
-            //{
-            //    Assert.IsTrue(ex is Exception);
-            //}
-
+            bil.Nummerplade = "AB123456";
         }
 
     }

@@ -6,3 +6,8 @@ C:\Users\Zaki\source\billetlibrary-zakikakar\BilletLibrary\BilletLibrary\obj\Deb
 C:\Users\Zaki\source\billetlibrary-zakikakar\BilletLibrary\BilletLibrary\obj\Debug\netcoreapp2.1\BilletLibrary.AssemblyInfo.cs
 C:\Users\Zaki\source\billetlibrary-zakikakar\BilletLibrary\BilletLibrary\obj\Debug\netcoreapp2.1\BilletLibrary.dll
 C:\Users\Zaki\source\billetlibrary-zakikakar\BilletLibrary\BilletLibrary\obj\Debug\netcoreapp2.1\BilletLibrary.pdb
+C:\Users\Zaki\source\billetlibrary-zakikakar\BilletLibrary\BilletLibrary\obj\Debug\netcoreapp2.1\BilletLibrary.csprojAssemblyReference.cache
+C:\Users\Zaki\source\billetlibrary-zakikakar\BilletLibrary\BilletLibrary\bin\Debug\netcoreapp2.1\netcoreapp2.1\BilletLibrary.deps.json
+C:\Users\Zaki\source\billetlibrary-zakikakar\BilletLibrary\BilletLibrary\bin\Debug\netcoreapp2.1\netcoreapp2.1\BilletLibrary.dll
+C:\Users\Zaki\source\billetlibrary-zakikakar\BilletLibrary\BilletLibrary\bin\Debug\netcoreapp2.1\netcoreapp2.1\BilletLibrary.pdb
+C:\Users\Zaki\source\billetlibrary-zakikakar\BilletLibrary\BilletLibrary\bin\Debug\netcoreapp2.1\netcoreapp2.1\BilletLibrary.xml

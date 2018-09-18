@@ -8,17 +8,20 @@ namespace BilletLibrary
     public class Bil : KøretøjBase
     {
 
-        public decimal Pris() //Ved kald af metoden Pris() returneres decimal 240
+        public override decimal Pris() //Ved kald af metoden Pris() returneres decimal 240
         {
-            if (AnvendtBrobizz) //Tjekker om brobizz er anvendt, hvis true så giver den rabat på 5%
-            {
-                return 240 * (decimal) Rabat;
-            }
 
-            return 240;
+            return CalcBrobizz(240);
+
+            //if (AnvendtBrobizz) //Tjekker om brobizz er anvendt, hvis true så giver den rabat på 5%
+            //{
+            //    return 240 * Rabat;
+            //}
+
+
         }
 
-        public string Køretøj() //Ved kald af metoden Køretøj() returneres string "Bil"
+        public override string Køretøj() //Ved kald af metoden Køretøj() returneres string "Bil"
         {
             return "Bil";
         }

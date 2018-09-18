@@ -17,7 +17,7 @@ namespace BilletLibrary
                 }
                 else
                 {
-                    throw new Exception("Nummerpladen skal være mellem 1-7 tegn");
+                    throw new ArgumentException("Nummerpladen skal være mellem 1-7 tegn");
                 }
             }
         }
@@ -25,29 +25,21 @@ namespace BilletLibrary
         public DateTime Dato;
         private string _nummerplade;
         public bool AnvendtBrobizz;
-        public double Rabat = 0.95;
+        public decimal Rabat = 0.95m;
 
-        public decimal Pris()
+        public abstract decimal Pris();
+
+        public abstract string Køretøj();
+
+        public decimal CalcBrobizz(decimal pris) // Smarteste måde? Kunne ikke få det til at fungere.
         {
-            throw new NotImplementedException();
-        }
+            if (AnvendtBrobizz)
+            {
+                return pris * Rabat;
+            }
 
-        public string Køretøj()
-        {
-            throw new NotImplementedException();
+            return pris;
         }
-        //public decimal Brobizz() // Smarteste måde? Kunne ikke få det til at fungere.
-        //{ 
-            //throw new NotImplementedException();
-        
-            //if (AnvendtBrobizz == true)
-            //{
-            //    return Pris() * (decimal)Rabat;
-
-            //}
-
-            //return Pris();
-        //}
-        }
+    }
     }
 

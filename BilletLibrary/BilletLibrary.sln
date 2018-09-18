@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BilletLibrary", "BilletLibrary\BilletLibrary.csproj", "{43BBA43A-2E23-4C79-80BE-3B2EC638F51F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilletLibraryTest", "BilletLibraryTest\BilletLibraryTest.csproj", "{A5D18D64-CE68-4C51-8F16-89F022F702AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BilletLibraryTest", "BilletLibraryTest\BilletLibraryTest.csproj", "{A5D18D64-CE68-4C51-8F16-89F022F702AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
