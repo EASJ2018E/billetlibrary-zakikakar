@@ -27,6 +27,10 @@ namespace BilletLibrary
         public bool AnvendtBrobizz;
         public decimal Rabat = 0.95m;
 
+        /// <summary>
+        /// Returnere pris på en overkørsel
+        /// </summary>
+        /// <returns></returns>
         public abstract decimal Pris();
 
         public abstract string Køretøj();
